@@ -1,39 +1,38 @@
-# 🌐 Portfolio Website
+#  Portfolio Website
 
 A modern, responsive **personal portfolio website** built to showcase my skills, projects, and achievements as a Computer Science student and aspiring full‑stack developer.
 
 ---
 
-## 🔗 Live Demo
+##  Live Demo
 
-👉 *Add your deployed link here*
 
 ```
-https://your-deployment-link-here
+https://portfolio-website-mani.netlify.app/ortfolio-website-mani.netlify.app
 ```
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-Hi, I'm **Manikant Mishra** 👋
+Hi, I'm **Manikant Mishra** 
 B.Tech CSE Student | MERN Stack Learner | Competitive Programmer
 
-* 🎓 GLA University, Mathura
-* 💻 Passionate about Web Development & DSA
-* 🧠 Solved 200+ problems on LeetCode
+*  GLA University, Mathura
+*  Passionate about Web Development & DSA
+*  Solved 200+ problems on LeetCode
 
 ---
 
-## ✨ Features
+##  Features
 
-* 🎯 Clean and modern UI
-* 📱 Fully responsive design
-* ⚡ Smooth scrolling and animations (AOS)
-* 🔤 Typing animation in hero section
-* 📊 Dynamic counters for stats
-* 📂 Projects showcase section
-* 📞 Contact form UI
+*  Clean and modern UI
+*  Fully responsive design
+*  Smooth scrolling and animations (AOS)
+*  Typing animation in hero section
+*  Dynamic counters for stats
+*  Projects showcase section
+*  Contact form UI
 
 ---
 
@@ -46,7 +45,7 @@ B.Tech CSE Student | MERN Stack Learner | Competitive Programmer
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 portfolio/
@@ -59,7 +58,7 @@ portfolio/
 
 ---
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 ```bash
 # Clone the repository
@@ -74,28 +73,28 @@ Open index.html
 
 ---
 
-## 📸 Sections Included
+##  Sections Included
 
-* 🏠 Hero Section
-* 👤 About Me
-* 🛠️ Skills
-* 📄 Resume
-* 💼 Projects
-* 🏆 Activities
-* 📞 Contact
-
----
-
-## 💡 Future Improvements
-
-* 🔐 Add backend for contact form (Node.js / Express)
-* 🌙 Dark mode toggle
-* 📊 Add project filtering
-* 📱 Improve mobile animations
+* Hero Section
+*  About Me
+*  Skills
+*  Resume
+*  Projects
+*  Activities
+*  Contact
 
 ---
 
-## 🤝 Contributing
+##  Future Improvements
+
+*  Add backend for contact form (Node.js / Express)
+*  Dark mode toggle
+*  Add project filtering
+*  Improve mobile animations
+
+---
+
+##  Contributing
 
 Contributions are welcome!
 
@@ -106,13 +105,13 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and available under the **MIT License**.
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 * Bootstrap
 * AOS Library
@@ -120,4 +119,4 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-### ⭐ If you like this project, give it a star!
+###  If you like this project, give it a star!
