@@ -3,13 +3,7 @@
 A modern, responsive **personal portfolio website** built to showcase my skills, projects, and achievements as a Computer Science student and aspiring full‑stack developer.
 
 ---
-
-##  Live Demo
-
-
-```
-https://portfolio-website-mani.netlify.app/ortfolio-website-mani.netlify.app
-```
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-website-mani.netlify.app)
 
 ---
 
