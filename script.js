@@ -7,21 +7,17 @@ let wi = 0;
 let ci = 0;
 let del = false;
 const tel = document.getElementById('typed-out');
-
 (function type() {
   const w = words[wi];
   tel.textContent = del ? w.slice(0, --ci) : w.slice(0, ++ci);
-
   if (!del && ci === w.length) {
     del = true;
     return setTimeout(type, 1800);
   }
-
   if (del && ci === 0) {
     del = false;
     wi = (wi + 1) % words.length;
   }
-
   setTimeout(type, del ? 55 : 100);
 })();
 
@@ -29,18 +25,15 @@ const counters = document.querySelectorAll('.counter');
 const cObs = new IntersectionObserver(entries => {
   entries.forEach(e => {
     if (!e.isIntersecting) return;
-
     const el = e.target;
     const target = +el.dataset.target;
     let v = 0;
     const step = Math.ceil(target / 60);
-
     const t = setInterval(() => {
       v = Math.min(v + step, target);
       el.textContent = v;
       if (v >= target) clearInterval(t);
     }, 20);
-
     cObs.unobserve(el);
   });
 }, { threshold: 0.4 });
@@ -66,7 +59,6 @@ window.addEventListener('scroll', () => {
   secs.forEach(s => {
     if (scrollY >= s.offsetTop - 120) cur = s.id;
   });
-
   links.forEach(a => {
     a.classList.remove('active');
     if (a.getAttribute('href') === '#' + cur) a.classList.add('active');
@@ -76,17 +68,14 @@ window.addEventListener('scroll', () => {
 const contactForm = document.getElementById('contactForm');
 contactForm.addEventListener('submit', e => {
   e.preventDefault();
-
   const name = document.getElementById('contactName').value.trim();
   const email = document.getElementById('contactEmail').value.trim();
   const subject = document.getElementById('contactSubject').value.trim();
   const message = document.getElementById('contactMessage').value.trim();
-
   if (!name || !email || !subject || !message) {
     alert('Please fill all fields before sending.');
     return;
   }
-
   const mailSubject = encodeURIComponent(subject);
   const mailBody = encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\n${message}`);
   window.location.href = `mailto:manimishra2006@gmail.com?subject=${mailSubject}&body=${mailBody}`;
