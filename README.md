@@ -31,7 +31,7 @@ B.Tech CSE Student | MERN Stack Learner | Competitive Programmer
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Framework/Library:** Bootstrap 5
