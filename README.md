@@ -12,7 +12,7 @@ A modern, responsive **personal portfolio website** built to showcase my skills,
 Hi, I'm **Manikant Mishra** 
 B.Tech CSE Student | MERN Stack Learner | Competitive Programmer
 
-*  GLA University, Mathura
+*  [GLA University, Mathura](https://www.google.com/maps/search/?api=1&query=GLA+University+Mathura)
 *  Passionate about Web Development & DSA
 *  Solved 220+ problems on LeetCode
 *  Built 5+ projects
