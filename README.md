@@ -14,7 +14,7 @@ B.Tech CSE Student | MERN Stack Learner | Competitive Programmer
 
 *  GLA University, Mathura
 *  Passionate about Web Development & DSA
-*  Solved 250+ problems on LeetCode
+*  Solved 220+ problems on LeetCode
 *  Built 5+ projects
 
 ---
